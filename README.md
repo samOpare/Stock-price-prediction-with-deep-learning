@@ -5,9 +5,6 @@ Stock Prediction Project for the Introduction to Data Science Lecture Autumn Sem
 Slides:
 https://docs.google.com/presentation/d/1Qc0QdRLU8xU--P7fGA6cyP1X67umjxIW9ieWA9vNBRo/edit?usp=sharing
 
-Report:
-https://sharelatex.kevin-diehl.de/7291297937vnqfgxddrxmp
-
 ## Requirements and Technologies
 - pandas
 - scikit-learn
